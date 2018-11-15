@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainWindow.xaml](./CS/WpfApplication100/MainWindow.xaml) (VB: [MainWindow.xaml.vb](./VB/WpfApplication100/MainWindow.xaml.vb))
+* [MainWindow.xaml.cs](./CS/WpfApplication100/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/WpfApplication100/MainWindow.xaml.vb))
+<!-- default file list end -->
 # How to create a TokenBox control in WPF
 
 
