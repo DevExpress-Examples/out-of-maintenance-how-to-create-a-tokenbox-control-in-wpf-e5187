@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * [MainWindow.xaml](./CS/TokenBoxExample/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/TokenBoxExample/MainWindow.xaml))
-* [MainWindow.xaml.cs](./CS/TokenBoxExample/MainWindow.xaml.cs) (VB: [MainWindow.xaml](./VB/TokenBoxExample/MainWindow.xaml))
+* [MainWindow.xaml.cs](./CS/TokenBoxExample/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/TokenBoxExample/MainWindow.xaml.vb))
 * [TokenBox.cs](./CS/TokenBoxExample/TokenBox.cs) (VB: [TokenBox.vb](./VB/TokenBoxExample/TokenBox.vb))
 <!-- default file list end -->
 # How to create a TokenBox control in WPF
